@@ -15,10 +15,6 @@ System type: Windows 11 (64-bit) operating system <br/>
 
 ### 1.2 Software (versions)
 - R (version 4.4.1, open-source, GNU General Public License)
-- SAS (version 9.4, proprietary, institutionally licensed through Emory University)
-- ArcGIS Pro (version 3.5.0, proprietary, institutionally licensed through Emory University)
-- MetaboAnalyst (version 6.0, open-source online tool)
-
 
 The code files were also independently tested on another device with parameters below:
 
@@ -29,10 +25,6 @@ System type: Windows 11 Enterprise (64-bit) operating system<br/>
 
 #### Software:
 - R (version 4.5.0, open-source, GNU General Public License)
-- SAS (version 9.4, proprietary, institutionally licensed through Emory)
-
-
-(Of note: This repo only contains code files executed in R and SAS, so no need to install ArcGIS, or use MetaboAnalyst)
 
 
 For R package versions, see below: 
@@ -53,7 +45,6 @@ For R package versions, see below:
 | kableExtra | 1.4.0
 | lubridate | 1.9.4
 | magrittr | 2.0.3
-| mediation | 4.5.0
 | metapone | 1.12.0
 | patchwork | 1.3.0
 | purrr | 1.0.4
@@ -120,7 +111,7 @@ There are several integrated development environment (IDE) widely used to run R 
 
 ## Contact
 
-If you have any questions, please reach out to Drs. Mengyuan Ren (mren30@emory.edu) and Donghai Liang. 
+If you have any questions, please reach out to Drs. Mengyuan Ren (mren30@emory.edu), Anke Huels, and Donghai Liang. 
 
 
 
