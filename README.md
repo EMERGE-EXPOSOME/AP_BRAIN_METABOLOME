@@ -14,10 +14,9 @@ RAM: 32GB <br/>
 System type: Windows 11 (64-bit) operating system <br/>
 
 ### 1.2 Software (versions)
-- R (version 4.4.1, open-source, GNU General Public License)
+- R (version 4.4.1, open-source, GNU General Public License) <br/><br/>
 
-The code files were also independently tested on another device with parameters below:
-
+*The code files were also independently tested on another device with parameters below:* <br/>
 
 #### Hardware:
 Dell laptop, Intel(R) Core(TM) Ultra 5 135U (2.10 GHz) <br/>
@@ -25,8 +24,7 @@ RAM: 16.0 GB <br/>
 System type: Windows 11 Enterprise, 64-bit operating system, x64-based processor <br/>
 
 #### Software:
-- R version 4.5.0 (2025-04-11 ucrt)
-
+- R version 4.5.0 (2025-04-11 ucrt) <br/><br/>
 
 
 For R package versions, see below: 
