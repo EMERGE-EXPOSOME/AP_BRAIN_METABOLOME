@@ -19,12 +19,12 @@ System type: Windows 11 (64-bit) operating system <br/>
 The code files were also independently tested on another device with parameters below:
 
 #### Hardware:
-Dell Pro Max 14, Intel(R) Core(TM) Ultra 7 265H (2.20 GHz)<br/>
-RAM: 32.0 GB<br/>
-System type: Windows 11 Enterprise (64-bit) operating system<br/>
+Dell laptop, Intel(R) Core(TM) Ultra 5 135U (2.10 GHz) <br/>
+RAM: 16.0 GB <br/>
+System type: Windows 11 Enterprise, 64-bit operating system, x64-based processor <br/>
 
 #### Software:
-- R (version 4.5.0, open-source, GNU General Public License)
+- R version 4.5.0 (2025-04-11 ucrt)
 
 
 For R package versions, see below: 
